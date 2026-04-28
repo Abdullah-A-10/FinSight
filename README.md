@@ -57,7 +57,7 @@ finsight/
 ## ⚙️ Getting Started  
 
 ```bash
-git clone https://github.com/your-username/finsight.git
+git clone https://github.com/Abdullah-A-10/finsight.git
 cd finsight
 ```
 
