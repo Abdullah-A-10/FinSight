@@ -76,19 +76,15 @@ npm run dev
 
 ---
 
-## 🔐 API Highlights
-/api/auth — authentication (JWT)
-/api/transactions — expense tracking
-/api/simulate — Monte Carlo engine
-/api/advisor — AI insights
-/api/budgets — budget management
-
----
-
 ## 🎯 Goal
 To provide a powerful yet simple platform for financial tracking, analysis, and future planning.
 
 ---
 
 ## 👨‍💻 Author
-Abdullah Khan
+Abdullah Aamir | CS Student | Full-Stack Dev
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
