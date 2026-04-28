@@ -51,6 +51,7 @@ finsight/
     │   ├── api/           # Axios services
     │   └── store/         # Zustand state
 
+```
 ---
 
 ## ⚙️ Getting Started  
@@ -58,15 +59,20 @@ finsight/
 ```bash
 git clone https://github.com/your-username/finsight.git
 cd finsight
+```
 
 ## Backend
+```bash
 cd finsight-backend
 ./mvnw spring-boot:run
+```
 
 ## Frontend
+```bash
 cd finsight-ui
 npm install
 npm run dev
+```
 
 ---
 
