@@ -51,6 +51,8 @@ finsight/
     │   ├── api/           # Axios services
     │   └── store/         # Zustand state
 
+---
+
 ## ⚙️ Getting Started  
 
 ```bash
@@ -66,6 +68,8 @@ cd finsight-ui
 npm install
 npm run dev
 
+---
+
 ## 🔐 API Highlights
 /api/auth — authentication (JWT)
 /api/transactions — expense tracking
@@ -73,8 +77,12 @@ npm run dev
 /api/advisor — AI insights
 /api/budgets — budget management
 
+---
+
 ## 🎯 Goal
 To provide a powerful yet simple platform for financial tracking, analysis, and future planning.
+
+---
 
 ## 👨‍💻 Author
 Abdullah Khan
