@@ -18,7 +18,75 @@
 - 📄 **PDF Reports** — export financial summaries  
 
 ---
+## 🖥️ Visual Preview
 
+### 🔐 Login Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7b98e90-e230-4fbf-81f4-c74e004251e4" alt="Login" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 📊 Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/418b8fb0-3982-4667-990f-d574d7a8f904" alt="Dashboard" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 💳 Accounts Overview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1990dc16-3690-42f7-9c93-df8cc663819a" alt="Accounts" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 📉 Expense Tracker
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/413d0a70-c0a3-4c65-b9c6-2a54a07223cb" alt="Tracker" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 💰 Budgets Management
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/34d9d4ff-701f-4ae6-978d-04a868c80886" alt="Budgets" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 🎯 Financial Goals
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61f5d9f3-3a19-4c96-a290-4614e6ef2138" alt="Goals" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 🔮 Forecast Analytics
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15dcc134-fcf2-467e-a6ec-44b972a22fd4" alt="Forecast" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 📈 Future Projections
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44fc8a44-7589-444a-8ad4-9e0b8c2e78cf" alt="Projection" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 📝 Outcomes & Reports
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41dfe292-f5b7-4752-ab1e-20d0ac3e991c" alt="Outcomes" max-width="100%" height="auto" />
+</p>
+
+---
+
+### 🤖 AI Financial Advisor
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/25bc3ee1-b0e8-444c-916b-ace9a1489077" alt="Advisor" max-width="100%" height="auto" />
+</p>
 ## 🛠️ Tech Stack  
 **Backend:** Java, Spring Boot, Spring Security, JPA, MySQL  
 **Frontend:** React, Tailwind CSS, Recharts, Zustand  
