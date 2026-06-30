@@ -87,6 +87,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25bc3ee1-b0e8-444c-916b-ace9a1489077" alt="Advisor" max-width="100%" height="auto" />
 </p>
+
+---
+
 ## 🛠️ Tech Stack  
 **Backend:** Java, Spring Boot, Spring Security, JPA, MySQL  
 **Frontend:** React, Tailwind CSS, Recharts, Zustand  
